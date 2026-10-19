@@ -1,0 +1,294 @@
+[
+  {
+    "id": "ovz-modern-warfare-2",
+    "port": "Open Victor Zulu: Global Flashpoint",
+    "game": "Call of Duty: Modern Warfare 2 (2009) multiplayer",
+    "rightsHolder": "Not named",
+    "kind": "Browser port",
+    "method": "DMCA notice",
+    "live": "2026-09-16",
+    "takenDown": "2026-10-17",
+    "daysOnline": 31,
+    "dateNote": "The date we first saw the notice; the takedown may be earlier.",
+    "note": "The site kept its title and now says the game was taken down \"due to a DMCA request\", without naming the sender. Activision owns Modern Warfare 2.",
+    "entry": "https://portedgames.com/modern-warfare-2/",
+    "sources": [
+      {
+        "label": "The game's site, now showing the notice",
+        "url": "https://ovz-game-production.up.railway.app/"
+      },
+      {
+        "label": "GlitchMod launch story, Sep 16, 2026",
+        "url": "https://glitchmod.com/news/you-can-now-play-modern-warfare-2-in-your-browser"
+      }
+    ]
+  },
+  {
+    "id": "celeste-web-port",
+    "port": "Celeste WebAssembly port (web-ports/celeste)",
+    "game": "Celeste",
+    "rightsHolder": "Maddy Makes Games",
+    "kind": "Browser port",
+    "method": "GitHub DMCA",
+    "live": "2025-11-27",
+    "takenDown": "2026-10-14",
+    "daysOnline": 321,
+    "dateNote": "Release date is when the repository was created.",
+    "note": "The notice named specific files; the game data was removed from the repository the next day in a commit titled \"dmca :(\".",
+    "entry": null,
+    "sources": [
+      {
+        "label": "GitHub DMCA notice, Oct 14, 2026",
+        "url": "https://github.com/github/dmca/blob/master/2026/10/2026-10-14-celeste.md"
+      },
+      {
+        "label": "web-ports/celeste commit history",
+        "url": "https://github.com/web-ports/celeste/commits"
+      }
+    ]
+  },
+  {
+    "id": "eaglercraft",
+    "port": "Eaglercraft repositories (Minecraft in the browser)",
+    "game": "Minecraft",
+    "rightsHolder": "Mojang/Microsoft",
+    "kind": "Browser port",
+    "method": "GitHub DMCA",
+    "live": null,
+    "takenDown": "2026-10-14",
+    "daysOnline": null,
+    "dateNote": "The most recent of 18 GitHub notices against Eaglercraft repositories since Aug 4, 2026.",
+    "note": "A running campaign: one Oct 14 notice alone covered a network of 111 repositories. Eaglercraft has existed for years, so there is no single release date.",
+    "entry": null,
+    "sources": [
+      {
+        "label": "GitHub DMCA notice, Oct 14, 2026 (111 repositories)",
+        "url": "https://github.com/github/dmca/blob/master/2026/10/2026-10-14-minecraft.md"
+      },
+      {
+        "label": "GitHub DMCA notice, Sep 14, 2026",
+        "url": "https://github.com/github/dmca/blob/master/2026/09/2026-09-14-minecraft.md"
+      },
+      {
+        "label": "GitHub DMCA notice, Aug 4, 2026",
+        "url": "https://github.com/github/dmca/blob/master/2026/08/2026-08-04-mojang.md"
+      }
+    ]
+  },
+  {
+    "id": "opticraft-heritage-edition",
+    "port": "OptiCraft Heritage Edition",
+    "game": "Minecraft (classic era)",
+    "rightsHolder": "Mojang/Microsoft",
+    "kind": "Reimplementation",
+    "method": "GitHub DMCA",
+    "live": null,
+    "takenDown": "2026-10-14",
+    "daysOnline": null,
+    "dateNote": null,
+    "note": "Billed as a clean-room C++ remake; Mojang says it contains over 2,000 core Minecraft files. The notice also lists 24 forks, including PS2, PS3, Wii and Xbox 360 versions.",
+    "entry": null,
+    "sources": [
+      {
+        "label": "GitHub DMCA notice, Oct 14, 2026",
+        "url": "https://github.com/github/dmca/blob/master/2026/10/2026-10-14-minecraft-5.md"
+      }
+    ]
+  },
+  {
+    "id": "vibe-slops-black-ops-2",
+    "port": "Claude of Duty: Vibe Slops II",
+    "game": "Call of Duty: Black Ops II (map Hijacked)",
+    "rightsHolder": "Activision",
+    "kind": "Browser remake",
+    "method": "DMCA notice",
+    "live": "2026-09-08",
+    "takenDown": "2026-10-10",
+    "daysOnline": 32,
+    "dateNote": null,
+    "note": "Luckey Faraday's AI-built Three.js shooter on the Hijacked map. The site now shows only his DMCA post; the notice itself was never published.",
+    "entry": "https://portedgames.com/black-ops-2/",
+    "sources": [
+      {
+        "label": "vibeslops.luckeysystems.com, now showing the DMCA post",
+        "url": "https://vibeslops.luckeysystems.com/"
+      },
+      {
+        "label": "Luckey Faraday on X, Oct 10, 2026",
+        "url": "https://x.com/luckeyfaraday/status/2108722723849379986"
+      },
+      {
+        "label": "XDA Developers, Oct 11, 2026",
+        "url": "https://www.xda-developers.com/activision-hits-vibe-coded-classic-call-of-duty-browser-ports-with-dmca-takedowns/"
+      }
+    ]
+  },
+  {
+    "id": "vibe-slops-cheese-cube",
+    "port": "Vibe Slops: Cheese Cube",
+    "game": "Call of Duty: Black Ops III (custom Zombies map Cheese Cube)",
+    "rightsHolder": "Activision",
+    "kind": "Browser remake",
+    "method": "DMCA notice",
+    "live": "2026-10-08",
+    "takenDown": "2026-10-10",
+    "daysOnline": 2,
+    "dateNote": "Release date approximate: first seen on a public list on Oct 8.",
+    "note": "Browser remake of a Black Ops III custom Zombies map, part of the same collection; its pages.dev address now redirects to an unrelated site.",
+    "entry": "https://portedgames.com/bo3-cheese-cube/",
+    "sources": [
+      {
+        "label": "Luckey Faraday's DMCA post on his Vibe Slops site",
+        "url": "https://vibeslops.luckeysystems.com/"
+      },
+      {
+        "label": "Radiant Optimizer list, Oct 8, 2026",
+        "url": "https://x.com/RadiantOpti/status/2108068632991256995"
+      }
+    ]
+  },
+  {
+    "id": "vibe-slops-kino-der-toten",
+    "port": "Vibe Slops: Kino der Toten",
+    "game": "Call of Duty: Black Ops (Zombies map Kino der Toten)",
+    "rightsHolder": "Activision",
+    "kind": "Browser remake",
+    "method": "DMCA notice",
+    "live": "2026-09-11",
+    "takenDown": "2026-10-10",
+    "daysOnline": 29,
+    "dateNote": null,
+    "note": "Three.js remake of the Zombies map by Luckey Faraday, removed with the rest of his Call of Duty collection.",
+    "entry": "https://portedgames.com/kino-der-toten/",
+    "sources": [
+      {
+        "label": "Luckey Faraday's DMCA post on his Vibe Slops site",
+        "url": "https://vibeslops.luckeysystems.com/"
+      },
+      {
+        "label": "XDA Developers, Oct 11, 2026",
+        "url": "https://www.xda-developers.com/activision-hits-vibe-coded-classic-call-of-duty-browser-ports-with-dmca-takedowns/"
+      }
+    ]
+  },
+  {
+    "id": "vibe-slops-moon",
+    "port": "Vibe Slops: Moon",
+    "game": "Call of Duty: Black Ops (Zombies map Moon)",
+    "rightsHolder": "Activision",
+    "kind": "Browser remake",
+    "method": "DMCA notice",
+    "live": "2026-09-14",
+    "takenDown": "2026-10-10",
+    "daysOnline": 26,
+    "dateNote": null,
+    "note": "Browser remake of the Zombies map Moon by Luckey Faraday, offline since his DMCA post. The launch post on X has been removed.",
+    "entry": "https://portedgames.com/moon-zombies/",
+    "sources": [
+      {
+        "label": "Luckey Faraday's DMCA post on his Vibe Slops site",
+        "url": "https://vibeslops.luckeysystems.com/"
+      },
+      {
+        "label": "Luckey Faraday on X, Sep 14, 2026 (since removed)",
+        "url": "https://x.com/luckeyfaraday/status/2099322779656941650"
+      }
+    ]
+  },
+  {
+    "id": "gta-5-browser",
+    "port": "GTA V browser port (playgta5.com)",
+    "game": "Grand Theft Auto V",
+    "rightsHolder": "Rockstar Games",
+    "kind": "Browser port",
+    "method": "Not stated",
+    "live": "2026-10-06",
+    "takenDown": "2026-10-06",
+    "daysOnline": 0,
+    "dateNote": null,
+    "note": "Went viral and was offline within hours. Reports credit Rockstar; no notice has been published.",
+    "entry": "https://portedgames.com/gta-5/",
+    "sources": [
+      {
+        "label": "Beebom, Oct 6, 2026",
+        "url": "https://beebom.com/rockstar-shuts-down-free-gta-5-browser-port/"
+      },
+      {
+        "label": "games.gg, Oct 6, 2026",
+        "url": "https://games.gg/news/rockstar-shuts-down-gta5-browser-port/"
+      }
+    ]
+  },
+  {
+    "id": "mw2-ai-decompilation",
+    "port": "Modern Warfare 2 AI decompilation (momo5502)",
+    "game": "Call of Duty: Modern Warfare 2 (2009, PC)",
+    "rightsHolder": "Activision",
+    "kind": "Decompilation",
+    "method": "Not stated",
+    "live": null,
+    "takenDown": "2026-10-03",
+    "daysOnline": null,
+    "dateNote": "Approximate: the date it was reported. No notice has been published.",
+    "note": "Maurice Heumann's AI-assisted decompilation was never released; reports say a gameplay video was removed and the site hosting the code was blocked after copyright notices.",
+    "entry": null,
+    "sources": [
+      {
+        "label": "TheGamer, Oct 3, 2026",
+        "url": "https://www.thegamer.com/ai-vibecoded-decompilations-takedown-fallout-mw2-dmca/"
+      }
+    ]
+  },
+  {
+    "id": "pso-reborn",
+    "port": "PSO Reborn",
+    "game": "Phantasy Star Online Episode I & II",
+    "rightsHolder": "SEGA",
+    "kind": "Browser port",
+    "method": "DMCA notice",
+    "live": "2026-09-15",
+    "takenDown": "2026-09-24",
+    "daysOnline": 9,
+    "dateNote": "Offline at some point between Sep 15 and 24; this is the date it was first reported.",
+    "note": "The site now says it was \"taken offline following a DMCA notice from SEGA\". Fans started a petition asking SEGA to reconsider.",
+    "entry": null,
+    "sources": [
+      {
+        "label": "psoreborn.com, now showing the notice",
+        "url": "https://psoreborn.com/"
+      },
+      {
+        "label": "Power Up Gaming, Sep 24, 2026",
+        "url": "https://www.powerupgaming.co.uk/2026/09/24/phantasy-star-browser-port-pso-reborn-hit-with-sega-dmca-notice/"
+      },
+      {
+        "label": "Petition to SEGA, Sep 26, 2026",
+        "url": "https://www.change.org/p/ask-sega-to-reconsider-the-dmca-against-pso-reborn"
+      }
+    ]
+  },
+  {
+    "id": "metal-slug-xx-recomp",
+    "port": "Metal Slug XX static recompilation (rexglue-MetalSlugXX)",
+    "game": "Metal Slug XX (Xbox 360)",
+    "rightsHolder": "SNK",
+    "kind": "PC port",
+    "method": "GitHub DMCA",
+    "live": "2026-07-05",
+    "takenDown": "2026-09-11",
+    "daysOnline": 68,
+    "dateNote": "Release date is when the repository was created.",
+    "note": "The notice targeted the release downloads. Releases and tags are gone; the source repository itself is still up.",
+    "entry": null,
+    "sources": [
+      {
+        "label": "GitHub DMCA notice, Sep 11, 2026",
+        "url": "https://github.com/github/dmca/blob/master/2026/09/2026-09-11-snk.md"
+      },
+      {
+        "label": "FluffyQuack/rexglue-MetalSlugXX",
+        "url": "https://github.com/FluffyQuack/rexglue-MetalSlugXX"
+      }
+    ]
+  }
+]
