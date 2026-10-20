@@ -4,6 +4,8 @@ A dataset of fan-made and AI-assisted ports of commercial video games (browser p
 
 It is the data behind the takedown tracker at **[portedgames.com/takedowns](https://portedgames.com/takedowns/)**, synced here once a day.
 
+Overview page with charts and download links: **[wangxiaoxiang5599.github.io/fan-port-takedowns](https://wangxiaoxiang5599.github.io/fan-port-takedowns/)**.
+
 ## Summary
 
 <!-- summary:start -->
