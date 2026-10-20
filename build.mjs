@@ -1,7 +1,9 @@
 #!/usr/bin/env node
-// Pulls the takedown tracker from portedgames.com and writes data/takedowns.json, data/takedowns.csv
-// and the summary block in README.md. Run by .github/workflows/sync.yml once a day; safe to run by hand.
+// Pulls the takedown tracker from portedgames.com and writes data/takedowns.json, data/takedowns.csv,
+// index.html (the GitHub Pages landing page) and the summary block in README.md.
+// Run by .github/workflows/sync.yml once a day; safe to run by hand.
 import { readFileSync, writeFileSync } from 'node:fs';
+import { renderPage } from './page.mjs';
 
 const SOURCE = 'https://portedgames.com/takedowns.json';
 
@@ -30,6 +32,7 @@ const rows = [...takedowns]
   }));
 
 writeFileSync('data/takedowns.json', JSON.stringify(rows, null, 2) + '\n');
+writeFileSync('index.html', renderPage(rows));
 
 const cols = ['id', 'port', 'game', 'rightsHolder', 'kind', 'method', 'live', 'takenDown', 'daysOnline', 'dateNote', 'note', 'entry', 'sources'];
 const cell = (v) => {
