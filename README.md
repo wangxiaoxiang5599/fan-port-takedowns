@@ -9,7 +9,7 @@ Overview page with charts and download links: **[wangxiaoxiang5599.github.io/fan
 ## Summary
 
 <!-- summary:start -->
-**12 takedowns** between 2026-09-11 and 2026-10-17. Of the 9 with a known release date, the median port stayed online for **29 days**. 8 of 12 have no public GitHub DMCA notice.
+**12 takedowns** between 2026-09-11 and 2026-10-19. Of the 9 with a known release date, the median port stayed online for **29 days**. 8 of 12 have no public GitHub DMCA notice.
 
 | Rights holder | Takedowns |
 |---|---|
@@ -23,9 +23,9 @@ Overview page with charts and download links: **[wangxiaoxiang5599.github.io/fan
 
 | Taken down | Port | Game | Rights holder | How | Days online |
 |---|---|---|---|---|---|
+| 2026-10-19 | Eaglercraft repositories (Minecraft in the browser) | Minecraft | Mojang/Microsoft | GitHub DMCA | ? |
 | 2026-10-17 | Open Victor Zulu: Global Flashpoint | Call of Duty: Modern Warfare 2 (2009) multiplayer | Not named | DMCA notice | 31 |
 | 2026-10-14 | Celeste WebAssembly port (web-ports/celeste) | Celeste | Maddy Makes Games | GitHub DMCA | 321 |
-| 2026-10-14 | Eaglercraft repositories (Minecraft in the browser) | Minecraft | Mojang/Microsoft | GitHub DMCA | ? |
 | 2026-10-14 | OptiCraft Heritage Edition | Minecraft (classic era) | Mojang/Microsoft | GitHub DMCA | ? |
 | 2026-10-10 | Claude of Duty: Vibe Slops II | Call of Duty: Black Ops II (map Hijacked) | Activision | DMCA notice | 32 |
 | 2026-10-10 | Vibe Slops: Cheese Cube | Call of Duty: Black Ops III (custom Zombies map Cheese Cube) | Activision | DMCA notice | 2 |

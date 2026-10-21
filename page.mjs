@@ -105,7 +105,7 @@ df.groupby('rightsHolder').size().sort_values(ascending=False)</code></pre>
 <p>A port gets a row only with evidence of a copyright claim: the notice, the author's post, or a notice on the port's own site. Ports their authors closed on their own, ports that are just offline, and emulators or piracy tools are not counted. No game files, ROMs or ISOs are hosted or linked. Know of a missing takedown? <a href="${REPO}/issues">Open an issue</a> with a source.</p>
 
 <footer>
-Data: CC BY 4.0. Please credit <a href="${SITE}/">PortedGames</a>, a directory of fan and AI ports of classic games with their status checked daily, and link to <a href="${TRACKER}">${TRACKER}</a>.
+Data: CC BY 4.0. Please credit <a href="${SITE}/">PortedGames</a>, a directory of fan and AI ports of classic games with their status checked daily, and link to <a href="${TRACKER}">${TRACKER}</a>. Related dataset: <a href="https://wangxiaoxiang5599.github.io/recompiled-games-list/">recompiled games list</a>, fan projects that turn console games into native PC programs.
 </footer>
 </div>
 </body>

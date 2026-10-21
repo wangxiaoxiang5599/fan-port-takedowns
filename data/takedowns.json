@@ -1,5 +1,37 @@
 [
   {
+    "id": "eaglercraft",
+    "port": "Eaglercraft repositories (Minecraft in the browser)",
+    "game": "Minecraft",
+    "rightsHolder": "Mojang/Microsoft",
+    "kind": "Browser port",
+    "method": "GitHub DMCA",
+    "live": null,
+    "takenDown": "2026-10-19",
+    "daysOnline": null,
+    "dateNote": "The most recent of the GitHub notices against Eaglercraft repositories since Aug 4, 2026; the Oct 19 one names publicly served 1.8.8, 1.12.2 and 26.1.2 builds.",
+    "note": "A running campaign: one Oct 14 notice alone covered a network of 111 repositories. Eaglercraft has existed for years, so there is no single release date.",
+    "entry": "https://portedgames.com/minecraft-browser/",
+    "sources": [
+      {
+        "label": "GitHub DMCA notice, Oct 19, 2026 (publicly served 1.8.8 builds)",
+        "url": "https://github.com/github/dmca/blob/master/2026/10/2026-10-19-minecraft-6.md"
+      },
+      {
+        "label": "GitHub DMCA notice, Oct 14, 2026 (111 repositories)",
+        "url": "https://github.com/github/dmca/blob/master/2026/10/2026-10-14-minecraft.md"
+      },
+      {
+        "label": "GitHub DMCA notice, Sep 14, 2026",
+        "url": "https://github.com/github/dmca/blob/master/2026/09/2026-09-14-minecraft.md"
+      },
+      {
+        "label": "GitHub DMCA notice, Aug 4, 2026",
+        "url": "https://github.com/github/dmca/blob/master/2026/08/2026-08-04-mojang.md"
+      }
+    ]
+  },
+  {
     "id": "ovz-modern-warfare-2",
     "port": "Open Victor Zulu: Global Flashpoint",
     "game": "Call of Duty: Modern Warfare 2 (2009) multiplayer",
@@ -44,34 +76,6 @@
       {
         "label": "web-ports/celeste commit history",
         "url": "https://github.com/web-ports/celeste/commits"
-      }
-    ]
-  },
-  {
-    "id": "eaglercraft",
-    "port": "Eaglercraft repositories (Minecraft in the browser)",
-    "game": "Minecraft",
-    "rightsHolder": "Mojang/Microsoft",
-    "kind": "Browser port",
-    "method": "GitHub DMCA",
-    "live": null,
-    "takenDown": "2026-10-14",
-    "daysOnline": null,
-    "dateNote": "The most recent of 18 GitHub notices against Eaglercraft repositories since Aug 4, 2026.",
-    "note": "A running campaign: one Oct 14 notice alone covered a network of 111 repositories. Eaglercraft has existed for years, so there is no single release date.",
-    "entry": null,
-    "sources": [
-      {
-        "label": "GitHub DMCA notice, Oct 14, 2026 (111 repositories)",
-        "url": "https://github.com/github/dmca/blob/master/2026/10/2026-10-14-minecraft.md"
-      },
-      {
-        "label": "GitHub DMCA notice, Sep 14, 2026",
-        "url": "https://github.com/github/dmca/blob/master/2026/09/2026-09-14-minecraft.md"
-      },
-      {
-        "label": "GitHub DMCA notice, Aug 4, 2026",
-        "url": "https://github.com/github/dmca/blob/master/2026/08/2026-08-04-mojang.md"
       }
     ]
   },
