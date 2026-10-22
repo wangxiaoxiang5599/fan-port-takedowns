@@ -1,0 +1,13 @@
+{
+  "title": "Fan and AI game port takedowns (dataset)",
+  "upload_type": "dataset",
+  "description": "<p>An open dataset of fan-made and AI-assisted ports of commercial video games (browser ports, PC ports, recompilations and decompilations) that were taken down after a copyright claim, with the rights holder, the dates, how long each port was online, and the evidence for every row. JSON and CSV.</p><p>It is the data behind the takedown tracker at <a href=\"https://portedgames.com/takedowns/\">portedgames.com/takedowns</a>, part of <a href=\"https://portedgames.com/\">PortedGames</a>, a directory of fan and AI ports of classic games with each port's status checked daily. No game files are included or linked.</p>",
+  "creators": [{"name": "PortedGames"}],
+  "license": "cc-by-4.0",
+  "keywords": ["video games", "copyright", "DMCA", "takedowns", "game ports", "fan games", "WebAssembly", "decompilation"],
+  "related_identifiers": [
+    {"identifier": "https://portedgames.com/takedowns/", "relation": "isSupplementTo", "resource_type": "dataset"},
+    {"identifier": "https://portedgames.com/", "relation": "isPartOf"},
+    {"identifier": "https://wangxiaoxiang5599.github.io/fan-port-takedowns/", "relation": "isDocumentedBy"}
+  ]
+}
