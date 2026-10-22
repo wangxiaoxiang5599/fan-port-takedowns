@@ -6,6 +6,8 @@ It is the data behind the takedown tracker at **[portedgames.com/takedowns](http
 
 Overview page with charts and download links: **[wangxiaoxiang5599.github.io/fan-port-takedowns](https://wangxiaoxiang5599.github.io/fan-port-takedowns/)**.
 
+Archived on Zenodo: [doi:10.5281/zenodo.23555374](https://doi.org/10.5281/zenodo.23555374) (snapshot v1.0.0; each GitHub release is archived automatically).
+
 ## Summary
 
 <!-- summary:start -->
